@@ -1,4 +1,16 @@
-## Hi there 👋
+<p align="center">
+
+<img src="LINK_ANH_1" width="700">
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=5FFBF1&center=true&vCenter=true&width=600&lines=✦+summer+never+felt+this+lonely+✦">
+
+<br><br>
+
+<img src="LINK_ANH_2" width="700">
+
+</p>
 
 <!--
 **summeridie/summeridie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
