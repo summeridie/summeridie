@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="LINK_ANH_1" width="700">
+<img src="https://i.pinimg.com/736x/63/b1/f3/63b1f301c01c5ff38e78366e245bbda2.jpg" width="700">
 
 <br><br>
 
@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="LINK_ANH_2" width="700">
+<img src="https://i.pinimg.com/736x/91/c2/e3/91c2e36eb17b9242921b66cb4af4cddb.jpg" width="700">
 
 </p>
 
