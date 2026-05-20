@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=5FFBF1&center=true&vCenter=true&width=400&lines=*+summer+never+felt+this+lonely+*">
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=5FFBF1&center=true&vCenter=true&width=400&lines=꒰+summer+never+felt+this+lonely+꒱">
 
 <br><br>
 
